@@ -1,0 +1,1 @@
+<annotations><filename>76-color0-f1.jpg</filename><folder>images</folder><size><width>800</width><height>600</height><depth>3</depth></size><object><name>bowl_yellow_middle</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>266</xmin><ymin>148</ymin><xmax>546</xmax><ymax>427</ymax></bndbox></object></annotations>

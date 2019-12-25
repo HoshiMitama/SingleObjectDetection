@@ -1,0 +1,1 @@
+<annotations><filename>92-color0-rotate_90.jpg</filename><folder>images</folder><size><width>600</width><height>800</height><depth>3</depth></size><object><name>dish_cube_large</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>80</xmin><ymin>198</ymin><xmax>458</xmax><ymax>611</ymax></bndbox></object></annotations>

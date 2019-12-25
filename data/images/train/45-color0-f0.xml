@@ -1,0 +1,1 @@
+<annotations><filename>45-color0-f0.jpg</filename><folder>images</folder><size><width>800</width><height>600</height><depth>3</depth></size><object><name>bowl_white_words</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>291</xmin><ymin>282</ymin><xmax>550</xmax><ymax>455</ymax></bndbox></object></annotations>

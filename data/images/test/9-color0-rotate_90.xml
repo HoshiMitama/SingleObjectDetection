@@ -1,0 +1,1 @@
+<annotations><filename>9-color0-rotate_90.jpg</filename><folder>images</folder><size><width>600</width><height>800</height><depth>3</depth></size><object><name>bowl_stone</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>102</xmin><ymin>180</ymin><xmax>478</xmax><ymax>643</ymax></bndbox></object></annotations>

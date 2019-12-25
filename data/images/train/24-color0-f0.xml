@@ -1,0 +1,1 @@
+<annotations><filename>24-color0-f0.jpg</filename><folder>images</folder><size><width>800</width><height>600</height><depth>3</depth></size><object><name>dish_pink_person</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>319</xmin><ymin>252</ymin><xmax>503</xmax><ymax>379</ymax></bndbox></object></annotations>

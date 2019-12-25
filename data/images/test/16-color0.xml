@@ -1,0 +1,1 @@
+<annotations><filename>16-color0.jpg</filename><folder>images</folder><size><width>800</width><height>600</height><depth>3</depth></size><object><name>bowl_blue_small</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>302</xmin><ymin>152</ymin><xmax>490</xmax><ymax>305</ymax></bndbox></object></annotations>

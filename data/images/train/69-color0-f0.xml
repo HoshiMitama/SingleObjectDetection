@@ -1,0 +1,1 @@
+<annotations><filename>69-color0-f0.jpg</filename><folder>images</folder><size><width>800</width><height>600</height><depth>3</depth></size><object><name>dish_white_words</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>260</xmin><ymin>83</ymin><xmax>658</xmax><ymax>470</ymax></bndbox></object></annotations>

@@ -1,0 +1,1 @@
+<annotations><filename>30-color0-rotate_90.jpg</filename><folder>images</folder><size><width>600</width><height>800</height><depth>3</depth></size><object><name>bowl_green_middle</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>315</xmin><ymin>257</ymin><xmax>506</xmax><ymax>532</ymax></bndbox></object></annotations>

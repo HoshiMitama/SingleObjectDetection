@@ -1,0 +1,1 @@
+<annotations><filename>9-color0.jpg</filename><folder>images</folder><size><width>800</width><height>600</height><depth>3</depth></size><object><name>bowl_stone</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>180</xmin><ymin>122</ymin><xmax>643</xmax><ymax>498</ymax></bndbox></object></annotations>

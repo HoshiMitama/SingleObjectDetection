@@ -1,0 +1,1 @@
+<annotations><filename>5-color0-rotate_270.jpg</filename><folder>images</folder><size><width>600</width><height>800</height><depth>3</depth></size><object><name>dish_orange</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>147</xmin><ymin>239</ymin><xmax>482</xmax><ymax>587</ymax></bndbox></object></annotations>
